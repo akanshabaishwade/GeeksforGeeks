@@ -1,0 +1,9 @@
+# how to simple program input output
+num = input ("please enter number :")
+print(num)
+name1 = input("please enter your name  : ")
+print(name1)
+  
+# Printing type of input value
+print ("type of number", type(num))
+print ("type of name", type(name1))
